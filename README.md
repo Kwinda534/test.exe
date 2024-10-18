@@ -1,2 +1,2 @@
 # test.exe
-it,s skid malware (no malware it,s idk)
+it,s skid malware (not malware it,s idk)
